@@ -1,0 +1,14 @@
+<snippet>
+    <!-- <content><![CDATA[l(${1:object_date}, format: ' %A %d de %B a las %H:%M')${0}]]></content> -->
+
+    <content><![CDATA[
+\$.ajax(
+  url: Routes.${0:path}
+  data: {authenticity_token: \$('meta[name=csrf-token]').attr('content')}
+  type: 'POST'
+  dataType: 'script'
+)
+
+      ]]></content>
+    <tabTrigger>ajax</tabTrigger>
+</snippet>

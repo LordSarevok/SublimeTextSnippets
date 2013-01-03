@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[.should have_content(${1:content})]]></content>
+    <tabTrigger>.shc</tabTrigger>
+</snippet>

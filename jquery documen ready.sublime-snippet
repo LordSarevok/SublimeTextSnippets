@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$(document).ready ->
+  ]]></content>
+    <tabTrigger>jqdr</tabTrigger>
+</snippet>

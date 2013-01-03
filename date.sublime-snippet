@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[l(${1:object_date}, format: ' %A %d de %B a las %H:%M')${0}]]></content>
+    <tabTrigger>date</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[FactoryGirl.create(:${1:method})]]></content>
+    <tabTrigger>fact</tabTrigger>
+</snippet>

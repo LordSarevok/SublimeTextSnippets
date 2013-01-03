@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[\$('${1:selector}').${2:function}]]></content>
+    <tabTrigger>$</tabTrigger>
+</snippet>

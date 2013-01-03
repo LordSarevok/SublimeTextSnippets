@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[.any_instance.stub(:valid?).and_return(true)]]></content>
+    <tabTrigger>.valid</tabTrigger>
+</snippet>

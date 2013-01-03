@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[expect { ${1:some action} }.to change(${2:object}, ${3:method}).by(${4:value})$5]]></content>
+    <tabTrigger>change</tabTrigger>
+</snippet>

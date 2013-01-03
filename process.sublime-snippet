@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[process :${1:method}]]></content>
+    <tabTrigger>process</tabTrigger>
+</snippet>
